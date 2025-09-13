@@ -1,4 +1,4 @@
-# FoodWaste Warriors 🌱
+# Roti Bank🌱
 
 A comprehensive web platform designed to combat food waste by connecting restaurants, volunteers, and NGOs in a sustainable ecosystem that rewards positive impact.
 
@@ -141,9 +141,9 @@ We welcome contributions! Here are some ways you can help:
 
 ## 📞 Contact
 
-- **Email**: info@foodwastewarriors.com
-- **Phone**: +1 (555) 123-4567
-- **Address**: 123 Green Street, Eco City, EC 12345
+- **Email**: rotibank@gmail.com
+- **Phone**: +91 9045863109
+- **Address**: BML Munjal University, Kapriwas, Haryana - 122413
 
 ## 📄 License
 
